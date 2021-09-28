@@ -36,7 +36,7 @@ RUN \
         otter-grader==3.1.3 \
         ipywebrtc \
         ipympl \
-        #ipywidgets \
+        datascience \
         matplotlib \
         jupyter_bokeh \
         nbdime \
