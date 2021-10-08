@@ -45,6 +45,7 @@ RUN \
         jupyterlab_widgets \
         ipympl \
         jupyter \
+        pendulum \
         jupyterlab && \
     \
     rm -rf ~/.cache/pip ~/.cache/matplotlib ~/.cache/yarn && \
